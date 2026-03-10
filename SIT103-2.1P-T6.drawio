@@ -1,0 +1,132 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15" version="29.6.1">
+  <diagram name="Page-1" id="5JP0T_187Un8CXYAAb5V">
+    <mxGraphModel dx="1018" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="40fH4lK6M77_J3_qXhel-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Customer" vertex="1">
+          <mxGeometry height="80" width="80" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="ABC Video Rental System" vertex="1">
+          <mxGeometry height="160" width="160" x="334" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Store Assistant" vertex="1">
+          <mxGeometry height="80" width="80" x="680" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Store Manager" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-5" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="40fH4lK6M77_J3_qXhel-1" value="Membership&lt;div&gt;Details&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="0.2912" y="48" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="400" y="-10" />
+            </Array>
+            <mxPoint x="370" y="320" as="sourcePoint" />
+            <mxPoint x="310" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-6" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.356;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="40fH4lK6M77_J3_qXhel-2" value="Membership&lt;div&gt;Request&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="-0.1864" y="-45" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="340" y="60" />
+            </Array>
+            <mxPoint x="552" y="340" as="sourcePoint" />
+            <mxPoint x="390" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-7" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;entryX=0.2;entryY=0.075;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" target="40fH4lK6M77_J3_qXhel-2" value="Video Rental&lt;div&gt;Request&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="-0.2024" y="-36" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="310" y="120" />
+            </Array>
+            <mxPoint x="340" y="150" as="sourcePoint" />
+            <mxPoint x="558" y="278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-8" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.088;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" target="40fH4lK6M77_J3_qXhel-2" value="Payment&lt;div&gt;Details&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="0.076" y="-5" as="geometry">
+            <mxPoint x="-1" as="offset" />
+            <Array as="points">
+              <mxPoint x="210" y="200" />
+            </Array>
+            <mxPoint x="210" y="110" as="sourcePoint" />
+            <mxPoint x="350" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-9" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.013;exitY=0.375;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" target="40fH4lK6M77_J3_qXhel-1" value="Payment&lt;div&gt;Request&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="-0.228" y="-18" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="160" y="280" />
+            </Array>
+            <mxPoint x="270" y="200" as="sourcePoint" />
+            <mxPoint x="478" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-10" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="40fH4lK6M77_J3_qXhel-1" value="Rental&lt;div&gt;Confirmation&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="-0.3559" y="-47" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="100" y="390" />
+            </Array>
+            <mxPoint x="496" y="400" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-11" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.319;exitY=0.956;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="40fH4lK6M77_J3_qXhel-4" value="New&lt;div&gt;Video&lt;/div&gt;&lt;div&gt;Report&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="0.4191" y="12" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="310" y="430" />
+            </Array>
+            <mxPoint x="494" y="460" as="sourcePoint" />
+            <mxPoint x="260" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-12" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.663;exitY=0.981;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="40fH4lK6M77_J3_qXhel-4" value="Overdue&lt;div&gt;Video&lt;/div&gt;&lt;div&gt;Report&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="0.4392" y="-5" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="510" y="410" />
+            </Array>
+            <mxPoint x="427" y="380" as="sourcePoint" />
+            <mxPoint x="444" y="508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-13" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;exitX=0.663;exitY=0.006;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="40fH4lK6M77_J3_qXhel-3" value="Customer&lt;div&gt;Information&lt;/div&gt;&lt;div&gt;Verification&lt;/div&gt;&lt;div&gt;Request&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="0.1596" y="-60" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="500" y="60" />
+            </Array>
+            <mxPoint x="614" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-14" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-3" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="40fH4lK6M77_J3_qXhel-2" value="Customer&lt;div&gt;Verification&lt;/div&gt;&lt;div&gt;Response&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="0.0009" y="-11" as="geometry">
+            <mxPoint y="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="600" y="240" />
+            </Array>
+            <mxPoint x="690" y="220" as="sourcePoint" />
+            <mxPoint x="700" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40fH4lK6M77_J3_qXhel-15" edge="1" parent="1" source="40fH4lK6M77_J3_qXhel-3" style="html=1;verticalAlign=bottom;endArrow=block;curved=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="40fH4lK6M77_J3_qXhel-2" value="New&lt;div&gt;Video&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;">
+          <mxGeometry relative="1" width="80" x="-0.0956" y="-23" as="geometry">
+            <mxPoint y="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="670" y="320" />
+            </Array>
+            <mxPoint x="879" y="170" as="sourcePoint" />
+            <mxPoint x="650" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
